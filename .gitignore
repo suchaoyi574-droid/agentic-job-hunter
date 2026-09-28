@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+
+# Environment
+.env
+
+# Database
+*.db
+
+# Runtime files
+data/traces/
+
+# OS
+.DS_Store
+Thumbs.dbdata/
+jobs.json
